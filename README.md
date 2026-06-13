@@ -19,7 +19,7 @@ pip install numpy pandas scikit-learn matplotlib
 ```
 ## Important honesty notes (please read before submitting)
 
-**Task 4 (Disease Prediction):** Uses the Breast Cancer Wisconsin
+**(Disease Prediction):** Uses the Breast Cancer Wisconsin
    dataset (built into scikit-learn, one of the datasets explicitly
    suggested in the brief). XGBoost was not installed in this environment,
    so Gradient Boosting (scikit-learn's native equivalent) is used as the
@@ -28,7 +28,7 @@ pip install numpy pandas scikit-learn matplotlib
 
 ## Results summary (from the runs in this environment)
 
-- **Task 4 — Disease Prediction:** Logistic Regression and SVM tied for
+- **Disease Prediction:** Logistic Regression and SVM tied for
   best performance (98.2% accuracy, ROC-AUC ~0.995). `worst perimeter`,
   `worst area`, and `worst concave points` were the top predictive
   features — matching established medical literature on tumor

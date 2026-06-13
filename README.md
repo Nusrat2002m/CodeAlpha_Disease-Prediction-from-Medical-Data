@@ -1,6 +1,9 @@
 # CodeAlpha_Disease-Prediction-from-Medical-Data
 
 ## Files
+
+| File | Task | Dataset | Models |
+|---|---|---|---|
 | `task4_disease_prediction.py` | Disease Prediction (Breast Cancer) | scikit-learn Breast Cancer Wisconsin dataset | Logistic Regression, Random Forest, SVM, Gradient Boosting |
 
 ## How to run
